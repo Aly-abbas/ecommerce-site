@@ -3,9 +3,33 @@
  --lightBlue:#009ffd;
  --mainWhite:#f3f3f3;
  --mainDark:#232528;
- --mainYellow:#ffa400;
+ --mainYellow:#ffa400; 
 }
 body{
+  font-family:"Anton", sans-serif !important;
+  background:var(--mainWhite) !important;
+  color:var(--mainDark) !important;
+}body{
+  font-family:"Anton", sans-serif !important;
+  background:var(--mainWhite) !important;
+  color:var(--mainDark) !important;
+}body{
+  font-family:"Anton", sans-serif !important;
+  background:var(--mainWhite) !important;
+  color:var(--mainDark) !important;
+}body{
+  font-family:"Anton", sans-serif !important;
+  background:var(--mainWhite) !important;
+  color:var(--mainDark) !important;
+}body{
+  font-family:"Anton", sans-serif !important;
+  background:var(--mainWhite) !important;
+  color:var(--mainDark) !important;
+}body{
+  font-family:"Anton", sans-serif !important;
+  background:var(--mainWhite) !important;
+  color:var(--mainDark) !important;
+}body{
   font-family:"Anton", sans-serif !important;
   background:var(--mainWhite) !important;
   color:var(--mainDark) !important;
